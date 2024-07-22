@@ -1,0 +1,5 @@
+a = 5 # int()
+b = 5.5 # float()
+c = "Hello, World" # str()
+d = "9.5" # str() -> float()
+print(a + b + float(d))
