@@ -6,16 +6,16 @@ It serves as a personal learning archive and a way to better understand Python b
 
 ---
 
-## 🎓 About the Course
+## About the Course
 
-- 📺 **Course Title:** Python Fast Course (by SudoTeachIt)  
-- 🌐 **Platform:** YouTube  
-- 💬 **Language:** Russian  
-- 🧠 **Focus:** Fast-paced introduction to Python covering key topics such as variables, data types, control flow, functions, lists, dictionaries, and more.
+- **Course Title:** Python Fast Course (by SudoTeachIt)  
+- **Platform:** YouTube  
+- **Language:** Russian  
+- **Focus:** Fast-paced introduction to Python covering key topics such as variables, data types, control flow, functions, lists, dictionaries, and more.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 - All files are organized by topic or video segment.
 - Filenames reflect the topic covered in each video for easy navigation.
@@ -23,7 +23,7 @@ It serves as a personal learning archive and a way to better understand Python b
 
 ---
 
-## 🔧 How to Use
+## How to Use
 
 1. Make sure Python 3 is installed.  
    [Download Python](https://www.python.org/downloads/)
@@ -32,3 +32,4 @@ It serves as a personal learning archive and a way to better understand Python b
    ```bash
    git clone https://github.com/CodeRyzen/SudoTeachIt-PythonFastCourse.git
    cd SudoTeachIt-PythonFastCourse
+   ```
